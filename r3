@@ -1,0 +1,7 @@
+IT
+AIML
+CSE
+MECH
+CIVIL
+DS
+CB
